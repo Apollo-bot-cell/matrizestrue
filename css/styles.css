@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: x-large;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: large;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+body{
+     background:linear-gradient(to left, black,white)
+}
+table.comBordaComplexa {
+    margin : auto;
+    border-collapse: collapse; 
+    background: #FFFFF0;
+    border: dashed black 1px; 
+    text-align: center;
+}
+table.comBordaComplexa:hover{
+    width: 100px;
+    height: 100px;
+}
+table.comBordaComplexa td {
+    border: 1px dotted black;
+}
+#div1 {
+    display:flex;
+}
+.resultante{
+   text-align: center;
+}
